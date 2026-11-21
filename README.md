@@ -11,12 +11,12 @@
 - 📊 At **Enel**, I built Power BI dashboards and automations that saved the team about **8 hours a week**
 - 🎓 Studying **Data Science & AI** at Infnet and **Software Engineering** at Unoeste
 - 🔎 Looking for junior roles in **Data Science** and **AI Engineering**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rafael-tomiazi-2a10a9216/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rafaeltomiazi/)
 
 ### Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rafael-tomiazi-2a10a9216/">
+  <a href="https://www.linkedin.com/in/rafaeltomiazi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
